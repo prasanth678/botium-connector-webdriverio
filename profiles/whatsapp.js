@@ -9,7 +9,7 @@ const whatsappLabels = {
   en: {
     btnOptions: 'More options',
     btnClean: 'Clear chat',
-    btnCleanOk: 'CLEAR'
+    btnCleanOk: 'CLEAR CHAT'
   }
 }
 
